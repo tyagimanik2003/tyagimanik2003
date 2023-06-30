@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://maniktyagi.com/images\Manik Tyagi Website Profile Picture.jpg" alt="Manik Tyagi" width="200" height="200">
+  <img src="Manik Tyagi Website Profile Picture.jpg" alt="Manik Tyagi" width="200" height="200">
 </p>
 
 <!-- Introduction -->
@@ -37,13 +37,13 @@
 <!-- Project Cards -->
 <div align="center">
   <a href="project-url-1">
-    <img src="project-image-url-1" alt="Project 1" width="300">
+    <img src="Buddy.png" alt="Project 1" width="300">
   </a>
   <a href="project-url-2">
-    <img src="project-image-url-2" alt="Project 2" width="300">
+    <img src="Login.png" alt="Project 2" width="300">
   </a>
   <a href="project-url-3">
-    <img src="project-image-url-3" alt="Project 3" width="300">
+    <img src="Muj-attendance.png" alt="Project 3" width="300">
   </a>
 </div>
 <div align="center">
