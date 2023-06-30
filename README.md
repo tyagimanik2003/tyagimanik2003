@@ -1,80 +1,97 @@
 <!-- Header -->
 <p align="center">
-  <img src="your-profile-picture-url" alt="Your Name" width="200" height="200">
+  <img src="https://maniktyagi.com/images\Manik Tyagi Website Profile Picture.jpg" alt="Manik Tyagi" width="200" height="200">
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi there! 👋 I'm Your Name</h1>
-<p align="center">Passionate about AI, ML, and creating innovative solutions.</p>
+<h1 align="center">Ahoy! I'm Your Name, a Developer on an Epic Journey</h1>
+<p align="center">Passionate about AI, ML, and creating innovative solutions, just like the Straw Hat Pirates on their quest for the One Piece.</p>
 
 <!-- Skills -->
-<h2>Skills</h2>
+<h2 align="center">Devil Fruit Powers</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Programming-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python">
-  <img src="https://img.shields.io/badge/C-Programming-informational?style=flat&logo=c&logoColor=white&color=2bbc8a" alt="C">
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Expert-informational?style=flat&color=2bbc8a" alt="Data Structures & Algorithms">
-  <img src="https://img.shields.io/badge/Leadership-Skilled-informational?style=flat&color=2bbc8a" alt="Leadership">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Proficient-informational?style=flat&color=2bbc8a" alt="AI & ML">
-  <img src="https://img.shields.io/badge/Git%20%26%20Github-Expert-informational?style=flat&color=2bbc8a" alt="Git & Github">
-  <img src="https://img.shields.io/badge/Database-Proficient-informational?style=flat&color=2bbc8a" alt="Database">
-  <img src="https://img.shields.io/badge/TensorFlow-Proficient-informational?style=flat&color=2bbc8a" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Restful%20APIs-Proficient-informational?style=flat&color=2bbc8a" alt="Restful APIs">
-  <img src="https://img.shields.io/badge/HTML-CSS-JavaScript-Frontend-informational?style=flat&color=2bbc8a" alt="Frontend Development">
-  <img src="https://img.shields.io/badge/GIS-Proficient-informational?style=flat&color=2bbc8a" alt="GIS">
+  <img src="https://img.shields.io/badge/Python%20Programming-Flame%20Fruit-red?style=flat&color=FF0000" alt="Python Programming">
+  <img src="https://img.shields.io/badge/C%20Programming-Supersonic%20Fruit-blue?style=flat&color=0000FF" alt="C Programming">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Gum%20Gum%20Fruit-yellow?style=flat&color=FFFF00" alt="Data Structures & Algorithms">
+  <img src="https://img.shields.io/badge/Leadership-Haoshoku%20Haki-orange?style=flat&color=FFA500" alt="Leadership">
+  <img src="https://img.shields.io/badge/Debugging-Smoke%20Fruit-purple?style=flat&color=800080" alt="Debugging">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Nikyu%20Nikyu%20Fruit-green?style=flat&color=008000" alt="AI & ML">
+  <img src="https://img.shields.io/badge/Git%20%26%20Github-Suke%20Suke%20Fruit-black?style=flat&color=000000" alt="Git & Github">
+  <img src="https://img.shields.io/badge/Database-Diamond%20Fruit-cyan?style=flat&color=00FFFF" alt="Database">
+  <img src="https://img.shields.io/badge/TensorFlow-Rumble%20Ball%20Fruit-pink?style=flat&color=FF69B4" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Restful%20APIs-Soru%20Soru%20Fruit-lightgrey?style=flat&color=D3D3D3" alt="Restful APIs">
+  <img src="https://img.shields.io/badge/HTML%2C%20CSS%2C%20JavaScript-Happo%20Fruit-gold?style=flat&color=FFD700" alt="HTML, CSS, JavaScript">
+  <img src="https://img.shields.io/badge/GIS-Ope%20Ope%20Fruit-lime?style=flat&color=00FF00" alt="GIS">
 </p>
 
 <!-- Education -->
-<h2>Education</h2>
-<ul>
-  <li>
-    <strong>Bachelor of Technology: Computer Science and Engineering (AI & ML)</strong>
-    <br>
-    Manipal University Jaipur, Rajasthan, India
-    <br>
-    CGPA: 9.21
-  </li>
-</ul>
+<h2 align="center">Quest of Knowledge</h2>
+<p align="center"><strong>Bachelor of Technology: Computer Science and Engineering (AI & ML)</strong></p>
+<p align="center">Manipal University Jaipur, Rajasthan, India</p>
+<p align="center">CGPA: 9.21</p>
 
 <!-- Projects -->
-<h2>Projects</h2>
-<ul>
-  <li>
-    <strong>MUJ 2.0 - Student attendance system using Facial Recognition</strong>
-    <br>
-    Brief description of the project.
-  </li>
-  <li>
-    <strong>Buddy - An AI assistant</strong>
-    <br>
-    Brief description of the project.
-  </li>
-  <li>
-    <strong>Portfolio Website - <a href="https://www.maniktyagi.com">maniktyagi.com</a></strong>
-    <br>
-    Brief description of the project.
-  </li>
-  <li>
-    <strong>Student Research Portal</strong>
-    <br>
-    Brief description of the project.
-  </li>
-</ul>
+<h2 align="center">Grand Voyage Projects</h2>
+<p align="center">Embark on an adventure with me through some of my notable projects:</p>
+
+<!-- Project Cards -->
+<div align="center">
+  <a href="project-url-1">
+    <img src="project-image-url-1" alt="Project 1" width="300">
+  </a>
+  <a href="project-url-2">
+    <img src="project-image-url-2" alt="Project 2" width="300">
+  </a>
+  <a href="project-url-3">
+    <img src="project-image-url-3" alt="Project 3" width="300">
+  </a>
+</div>
+<div align="center">
+  <a href="project-url-1"><strong>Project 1</strong></a>
+  <span> | </span>
+  <a href="project-url-2"><strong>Project 2</strong></a>
+  <span> | </span>
+  <a href="project-url-3"><strong>Project 3</strong></a>
+</div>
+<div align="center">
+  <em>Brief description of each project.</em>
+</div>
+
+<!-- View More Projects -->
+<p align="center">And many more exciting projects to discover!</p>
+<p align="center">
+  <a href="all-projects-url">View All Projects</a>
+</p>
+
 
 <!-- Certifications -->
-<h2>Certifications and Honors</h2>
-<ul>
-  <li>Gold medalist at T-HUNT Hackathon by CSE Department MUJ</li>
-  <li>Student Excellence Award winner given by CSE Department MUJ</li>
-  <li>Dean's List Award in 3rd semester</li>
-  <li>Data Structures and Algorithms in Python (Coding Ninjas)</li>
-  <li>Convolutional Neural Networks in TensorFlow (Coursera)</li>
-  <li>Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera)</li>
-  <li>Database Fundamentals by Oracle Academy</li>
-</ul>
+<h2 align="center">Treasured Certifications and Honors</h2>
+<p align="center">Earned some prestigious treasures during my journey:</p>
+<p align="center">
+  - Gold medalist at T-HUNT Hackathon by CSE Department MUJ
+  <br>
+  - Student Excellence Award winner given by CSE Department MUJ
+  <br>
+  - Dean's List Award in 3rd semester
+  <br>
+  - Data Structures and Algorithms in Python (Coding Ninjas)
+  <br>
+  - Convolutional Neural Networks in TensorFlow (Coursera)
+  <br>
+  - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera)
+  <br>
+  - Database Fundamentals by Oracle Academy
+  <!-- Add more certifications and honors here -->
+</p>
 
 <!-- Contact Me -->
-<h2>Contact Me</h2>
+<h2 align="center">Set Sail and Join the Crew</h2>
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue"></a>
   <a href="https://www.linkedin.com/in/your-name"><img src="https://img.shields.io/badge/LinkedIn-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
+</p>
+
+<!-- One Piece Theme -->
+<p align="center">
+  <img src="one-piece-image-url" alt="One Piece" width="500">
 </p>
