@@ -30,36 +30,6 @@
 <p align="center">Manipal University Jaipur, Rajasthan, India</p>
 <p align="center">CGPA: 9.21</p>
 
-<!-- Projects -->
-<h2 align="center">Grand Voyage Projects</h2>
-<p align="center">Embark on an adventure with me through some of my notable projects:</p>
-
-<!-- Project Grid -->
-<div align="center">
-  <div class="project-grid">
-    <div class="project-block">
-      <h3>Buddy</h3>
-      <p>Description of the Buddy project goes here.</p>
-      <a href="project-url-1">View Project</a>
-    </div>
-    <div class="project-block">
-      <h3>MResearch Portal</h3>
-      <p>Description of the MResearch Portal project goes here.</p>
-      <a href="project-url-2">View Project</a>
-    </div>
-    <div class="project-block">
-      <h3>Muj Attendance 2.0</h3>
-      <p>Description of the Muj Attendance 2.0 project goes here.</p>
-      <a href="project-url-3">View Project</a>
-    </div>
-    <div class="project-block">
-      <h3>Project 4</h3>
-      <p>Description of Project 4 goes here.</p>
-      <a href="project-url-4">View Project</a>
-    </div>
-  </div>
-</div>
-
 
 
 <!-- View More Projects -->
