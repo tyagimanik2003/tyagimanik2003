@@ -57,3 +57,7 @@
   <a href="https://www.linkedin.com/in/tyagimanik2003"><img src="https://img.shields.io/badge/LinkedIn-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
 </p>
 
+<!-- Portfolio Link -->
+<p align="center">
+  Check out my portfolio website: <a href="https://maniktyagi.com">ManikTyagi.com</a>
+</p>
