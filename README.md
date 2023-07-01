@@ -34,25 +34,33 @@
 <h2 align="center">Grand Voyage Projects</h2>
 <p align="center">Embark on an adventure with me through some of my notable projects:</p>
 
-<!-- Project Cards -->
+<!-- Project Grid -->
 <div align="center">
-  <a href="project-url-1">
-    <img src="Buddy.png" alt="Project 1" width="300">
-  </a>
-  <a href="project-url-2">
-    <img src="Login.png" alt="Project 2" width="300">
-  </a>
-  <a href="project-url-3">
-    <img src="Muj-attendance.png" alt="Project 3" width="300">
-  </a>
+  <div class="project-grid">
+    <div class="project-block">
+      <h3>Buddy</h3>
+      <p>Description of the Buddy project goes here.</p>
+      <a href="project-url-1">View Project</a>
+    </div>
+    <div class="project-block">
+      <h3>MResearch Portal</h3>
+      <p>Description of the MResearch Portal project goes here.</p>
+      <a href="project-url-2">View Project</a>
+    </div>
+    <div class="project-block">
+      <h3>Muj Attendance 2.0</h3>
+      <p>Description of the Muj Attendance 2.0 project goes here.</p>
+      <a href="project-url-3">View Project</a>
+    </div>
+    <div class="project-block">
+      <h3>Project 4</h3>
+      <p>Description of Project 4 goes here.</p>
+      <a href="project-url-4">View Project</a>
+    </div>
+  </div>
 </div>
-<div align="center">
-  <a href="project-url-1"><strong>Buddy</strong></a>
-  <span> | </span>
-  <a href="project-url-2"><strong>MResearch Portal</strong></a>
-  <span> | </span>
-  <a href="project-url-3"><strong>Muj Attendance 2.0</strong></a>
-</div>
+
+
 
 <!-- View More Projects -->
 <p align="center">And many more exciting projects to discover!</p>
