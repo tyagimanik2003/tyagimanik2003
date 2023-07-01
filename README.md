@@ -30,15 +30,6 @@
 <p align="center">Manipal University Jaipur, Rajasthan, India</p>
 <p align="center">CGPA: 9.21</p>
 
-
-
-<!-- View More Projects -->
-<p align="center">And many more exciting projects to discover!</p>
-<p align="center">
-  <a href="all-projects-url">View All Projects</a>
-</p>
-
-
 <!-- Certifications -->
 <h2 align="center">Treasured Certifications and Honors</h2>
 <p align="center">Earned some prestigious treasures during my journey:</p>
