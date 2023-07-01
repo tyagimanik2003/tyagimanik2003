@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Ahoy! I'm Your Name, a Developer on an Epic Journey</h1>
+<h1 align="center">Ahoy! I'm Manik Tyagi, a Developer on an Epic Journey</h1>
 <p align="center">Passionate about AI, ML, and creating innovative solutions, just like the Straw Hat Pirates on their quest for the One Piece.</p>
 
 <!-- Skills -->
@@ -47,14 +47,11 @@
   </a>
 </div>
 <div align="center">
-  <a href="project-url-1"><strong>Project 1</strong></a>
+  <a href="project-url-1"><strong>Buddy</strong></a>
   <span> | </span>
-  <a href="project-url-2"><strong>Project 2</strong></a>
+  <a href="project-url-2"><strong>MResearch Portal</strong></a>
   <span> | </span>
-  <a href="project-url-3"><strong>Project 3</strong></a>
-</div>
-<div align="center">
-  <em>Brief description of each project.</em>
+  <a href="project-url-3"><strong>Muj Attendance 2.0</strong></a>
 </div>
 
 <!-- View More Projects -->
@@ -87,11 +84,7 @@
 <!-- Contact Me -->
 <h2 align="center">Set Sail and Join the Crew</h2>
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue"></a>
-  <a href="https://www.linkedin.com/in/your-name"><img src="https://img.shields.io/badge/LinkedIn-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
+  <a href="mailto:tyagimanik2003@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue"></a>
+  <a href="https://www.linkedin.com/in/tyagimanik2003"><img src="https://img.shields.io/badge/LinkedIn-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
 </p>
 
-<!-- One Piece Theme -->
-<p align="center">
-  <img src="one-piece-image-url" alt="One Piece" width="500">
-</p>
