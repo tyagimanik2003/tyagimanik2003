@@ -54,7 +54,7 @@
 <h2 align="center">Set Sail and Join the Crew</h2>
 <p align="center">
   <a href="mailto:tyagimanik2003@gmail.com"><img src="https://img.shields.io/badge/Email-Me-informational?style=flat&logo=gmail&logoColor=white&color=blue"></a>
-  <a href="https://www.linkedin.com/in/tyagimanik2003"><img src="https://img.shields.io/badge/LinkedIn-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
+  <a href="https://www.linkedin.com/in/maniktyagi2003"><img src="https://img.shields.io/badge/LinkedIn-Follow-informational?style=flat&logo=linkedin&logoColor=white&color=blue"></a>
 </p>
 
 <!-- Portfolio Link -->
