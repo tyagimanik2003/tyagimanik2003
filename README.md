@@ -41,13 +41,6 @@
   - Dean's List Award in 3rd semester
   <br>
   - Data Structures and Algorithms in Python (Coding Ninjas)
-  <br>
-  - Convolutional Neural Networks in TensorFlow (Coursera)
-  <br>
-  - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (Coursera)
-  <br>
-  - Database Fundamentals by Oracle Academy
-  <!-- Add more certifications and honors here -->
 </p>
 
 <!-- Contact Me -->
